@@ -1,4 +1,0 @@
-Stwórz "grę" typu dungeon crawler
-Wymagane elementy:
-Proceduralne generowanie podziemi (kilka pięter)
-Przemieszczanie postaci: ręczne (klawiatura numeryczna), po wskazaniu kafelka docelowego
